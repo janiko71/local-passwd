@@ -1,0 +1,7 @@
+﻿{ 
+	"text": {
+		   "titlereq": "Contraintes minimales",
+		   "minlength": "Longueur d'au moins 8 caractères",
+		   "prereq1": "Doit contenir au moins 3 des 4 types de caractères suivants :" 
+	}
+}
